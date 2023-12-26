@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MostafaAjep
-- 👀 I’m interested in mobiel development
+- 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter 
 
 
