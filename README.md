@@ -9,7 +9,10 @@
 
 ### 🚀 What I'm working on
 
-- 📱 **Flutter Developer @ Beseha** — cross-platform health supplements e-commerce app (iOS & Android, live on both stores)
+- 📱 **Flutter Developer @ Beseha** — cross-platform health supplements e-commerce app, live on both stores:
+  <br>
+  <a href="https://apps.apple.com/us/app/beseha-health-supplements/id6762173510" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.beseha.mstore" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 - 🔄 Exploring backend architecture with Dart Frog, and WhatsApp Business API integrations
 - 📚 Deepening my Flutter/Dart fundamentals — OOP, design patterns, clean architecture
 
@@ -28,7 +31,6 @@
 </p>
 
 ### 📊 GitHub Stats
-
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaAjep&hide_border=true" alt="streak stats"/>
