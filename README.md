@@ -13,6 +13,7 @@
   <br>
   <a href="https://apps.apple.com/us/app/beseha-health-supplements/id6762173510" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.beseha.mstore" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+- 🔌 Integrated Meta & TikTok event tracking, Google Maps, Firebase Analytics/Notifications, and Paymob payment gateway into a production e-commerce app
 - 🔄 Exploring backend architecture with Dart Frog, and WhatsApp Business API integrations
 - 📚 Deepening my Flutter/Dart fundamentals — OOP, design patterns, clean architecture
 
@@ -24,16 +25,31 @@
   <img src="https://img.shields.io/badge/Dio-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/async__redux-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dart_Frog-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jaspr-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite/Drift-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/ObjectBox-informational?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
 </p>
 
+### 🔌 Integrations & SDKs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Meta_Events_SDK-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok_Events_API-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paymob-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase_Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaAjep&hide_border=true" alt="streak stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaAjep&hide_border=true" alt="streak stats"/>
 </p>
 
 ### 📫 Connect with me
